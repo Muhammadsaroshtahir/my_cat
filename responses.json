@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1771007448007,
+    "name": "sarosh",
+    "selectedCat": "Luna",
+    "noAttempts": 6,
+    "noReason": "Attempt 1: Clicked 'bhaag ja'; Attempt 2: Clicked 'dur dur'; Attempt 3: Clicked 'Are you sure?'; Attempt 4: Clicked 'Really sure?'; Attempt 5: Clicked 'Think again!'; Attempt 6: Clicked 'Last chance!'; ",
+    "finalResponse": "YES",
+    "qualifyingAnswers": [
+      {
+        "question": "Do you believe in love at first sight, or should I walk by again with a kitten? 😻",
+        "answer": "Show me the kitten!"
+      },
+      {
+        "question": "Are you made of catnip? Because you're driving me crazy! 😉",
+        "answer": "Haha, you're silly!"
+      },
+      {
+        "question": "If you were a cat, you'd be purr-fect. Ready for the final question? ❤️",
+        "answer": "Let's do it!"
+      }
+    ],
+    "timestamp": "2026-02-13T18:30:48.007Z"
+  },
+  {
+    "id": 1771007055533,
+    "name": "sarosh",
+    "selectedCat": "Luna",
+    "noAttempts": 11,
+    "noReason": "Attempt 1: Clicked 'bhaag ja'; Attempt 2: Clicked 'dur dur'; Attempt 3: Clicked 'Are you sure?'; Attempt 4: Clicked 'Really sure?'; Attempt 5: Clicked 'Think again!'; Attempt 6: Clicked 'Last chance!'; Attempt 7: Clicked 'chl by chl'; Attempt 8: Clicked 'bhaag ja'; Attempt 9: Clicked 'dur dur'; Attempt 10: Clicked 'Are you sure?'; Attempt 11: Clicked 'Really sure?'; ",
+    "finalResponse": "YES",
+    "qualifyingAnswers": [
+      {
+        "question": "Do you believe in love at first sight, or should I walk by again with a kitten? 😻",
+        "answer": "Show me the kitten!"
+      },
+      {
+        "question": "Are you made of catnip? Because you're driving me crazy! 😉",
+        "answer": "Haha, you're silly!"
+      },
+      {
+        "question": "If you were a cat, you'd be purr-fect. Ready for the final question? ❤️",
+        "answer": "Let's do it!"
+      }
+    ],
+    "timestamp": "2026-02-13T18:24:15.533Z"
+  },
+  {
+    "id": 1770064105103,
+    "name": "sarosh",
+    "selectedCat": "Luna",
+    "noAttempts": 4,
+    "noReason": "Q: Do you not like cats? 😿 | A: No; Q: Is it because I didn't bring flowers? 🌹 | A: No; Q: Are you allergic to love? 🤧 | A: No; Q: Do you prefer dogs? 🐶 | A: No",
+    "finalResponse": "YES",
+    "timestamp": "2026-02-02T20:28:25.103Z"
+  },
+  {
+    "id": 1770064370305,
+    "name": "sarosh",
+    "selectedCat": "Luna",
+    "noAttempts": 6,
+    "noReason": "Q: Do you not like cats? 😿 | A: No; Q: Is it because I didn't bring flowers? 🌹 | A: No; Q: Are you allergic to love? 🤧 | A: No; Q: Do you prefer dogs? 🐶 | A: No; Q: Is it me? It's me, isn't it? 🥺 | A: No; Q: Are you just playing hard to get? 😏 | A: Yes",
+    "finalResponse": "YES",
+    "timestamp": "2026-02-02T20:32:50.305Z"
+  }
+]
