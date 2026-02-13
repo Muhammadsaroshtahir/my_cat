@@ -3,11 +3,21 @@
 [build]
   # This is the directory that contains your built site files.
   publish = "public"
+  # Directory where our serverless functions live
+  functions = "netlify/functions"
 
-# Redirect and rewrite rules
+# The following redirect is intended for use with client-side routing.
+# It ensures that any direct navigation to a path handled by client-side
+# routing will be served the main index.html file.
 [[redirects]]
-  # Redirect all requests to the main index.html file
-  # This is useful for single-page applications (SPAs)
   from = "/*"
   to = "/index.html"
+  status = 200
+
+# The following rewrite rule maps API requests to our serverless function.
+# This allows the frontend to call `/api/response` and have it seamlessly
+# execute the `response.js` function.
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
   status = 200
