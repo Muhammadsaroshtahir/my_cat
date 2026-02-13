@@ -1,0 +1,13 @@
+# Netlify configuration file
+
+[build]
+  # This is the directory that contains your built site files.
+  publish = "public"
+
+# Redirect and rewrite rules
+[[redirects]]
+  # Redirect all requests to the main index.html file
+  # This is useful for single-page applications (SPAs)
+  from = "/*"
+  to = "/index.html"
+  status = 200
